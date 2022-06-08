@@ -1,0 +1,36 @@
+.userList{
+    flex: 4;
+    padding: 0 20px;
+}
+
+.userListCell{
+    display: flex;
+    align-items: center;
+}
+
+.userListAvatar{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+
+.userListEdit{
+    border-radius: 10px;
+    background-color: #06b800;
+    color: white;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-right: 15px;
+}
+
+.userListStatus{
+    color: #06b800;
+    margin-left: 5px;
+}
+
+.userListDelete{
+    cursor: pointer;
+}
