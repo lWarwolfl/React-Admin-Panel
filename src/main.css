@@ -30,8 +30,5 @@
 
 .container{
     display: flex;
-}
-
-.other{
-    flex: 5;
+    margin-top: 10px;
 }
