@@ -11,3 +11,27 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.logo{
+    font-size: 22px;
+    color: #222222;
+}
+
+.topBarIconContainer{
+    position: relative;
+}
+
+.iconBadge{
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
