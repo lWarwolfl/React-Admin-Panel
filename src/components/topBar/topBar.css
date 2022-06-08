@@ -1,0 +1,13 @@
+.topbar{
+    width: 100%;
+    height: 90px;
+    background-color: whitesmoke;
+}
+
+.topBarWrapper{
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
