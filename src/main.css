@@ -1,5 +1,6 @@
 *{
     font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
     margin: 0;
 }
 
@@ -25,4 +26,12 @@
 
 .extraboldText{
     font-weight: 800;
+}
+
+.container{
+    display: flex;
+}
+
+.other{
+    flex: 5;
 }
